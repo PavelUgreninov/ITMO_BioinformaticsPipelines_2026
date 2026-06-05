@@ -1,0 +1,9 @@
+id,type,repeat,file_or_sra
+HIV,reference,0,test_data/HIV_reference.fasta
+HIV,sample,1,ERR16834488
+HIV,sample,2,ERR16834491
+HIV,sample,3,ERR16834499
+HPV,reference,0,test_data/HPV_reference.fasta
+HPV,sample,1,SRR30011709
+HPV,sample,2,SRR30011711
+HPV,sample,3,SRR30011716

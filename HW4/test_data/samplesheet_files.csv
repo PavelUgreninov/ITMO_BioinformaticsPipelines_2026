@@ -1,0 +1,9 @@
+id,type,repeat,file_or_sra
+HIV,reference,0,test_data/HIV_reference.fasta
+HIV,sample,1,"test_data/reads_hw4/ERR16834488_1.fastq,test_data/reads_hw4/ERR16834488_2.fastq"
+HIV,sample,2,"test_data/reads_hw4/ERR16834491_1.fastq,test_data/reads_hw4/ERR16834491_2.fastq"
+HIV,sample,3,"test_data/reads_hw4/ERR16834499_1.fastq,test_data/reads_hw4/ERR16834499_2.fastq"
+HPV,reference,0,test_data/HPV_reference.fasta
+HPV,sample,1,"test_data/reads_hw4/SRR30011709_1.fastq,test_data/reads_hw4/SRR30011709_2.fastq"
+HPV,sample,2,"test_data/reads_hw4/SRR30011711_1.fastq,test_data/reads_hw4/SRR30011711_2.fastq"
+HPV,sample,3,"test_data/reads_hw4/SRR30011716_1.fastq,test_data/reads_hw4/SRR30011716_2.fastq"
