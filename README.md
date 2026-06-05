@@ -13,7 +13,7 @@ Profiles:
 5. Container: uses docker image from DocHub to run processes
 
 To run this pipeline with summary in a CSV file:
-* nextflow run HW4.nf --csv_file ./test_data/samplesheet_sra.csv -profile cluster
+* `nextflow run HW4.nf --csv_file ./test_data/samplesheet_sra.csv -profile cluster`
 
 or
 
@@ -28,4 +28,4 @@ fasterq-dump SRR30011711 --split-files
 fasterq-dump SRR30011716 --split-files
 ```
 and then run:
-* nextflow run HW4.nf --csv_file ./test_data/samplesheet_files.csv -profile cluster
+* `nextflow run HW4.nf --csv_file ./test_data/samplesheet_files.csv -profile cluster`
